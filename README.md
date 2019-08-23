@@ -1,3 +1,11 @@
+Successfully aliased the URL https://my-blog-vuepress-2f39w70lj.now.sh to the following aliases:
+
+https://my-blog-vuepress.15204017864.now.sh
+https://my-blog-vuepress-git-master.15204017864.now.sh
+
+
+
+
 # VuePress Example
 
 This directory is a brief example of a [VuePress](https://vuepress.vuejs.org/) app that can be deployed to ZEIT Now with zero configuration.
