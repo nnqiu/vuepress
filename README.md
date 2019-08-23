@@ -1,6 +1,8 @@
 Successfully aliased the URL https://my-blog-vuepress-2f39w70lj.now.sh to the following aliases:
 
 https://my-blog-vuepress.15204017864.now.sh
+
+
 https://my-blog-vuepress-git-master.15204017864.now.sh
 
 
