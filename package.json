@@ -6,7 +6,7 @@
   "scripts": {
     "docs:dev": "npx vuepress dev docs",
     "dev": "npm run docs:dev",
-    "build": "npm run build:readme && vuepress build docs",
+    "build": "npm run build:readme && vuepress build docs"
   },
   "devDependencies": {
     "node-sass": "^4.12.0",
